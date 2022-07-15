@@ -1,0 +1,5 @@
+-R theories/ Foata
+-arg -w
+-arg all
+theories/sseq.v
+theories/traces.v
