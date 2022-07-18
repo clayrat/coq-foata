@@ -3,3 +3,4 @@
 -arg all
 theories/sseq.v
 theories/traces.v
+theories/nf.v
